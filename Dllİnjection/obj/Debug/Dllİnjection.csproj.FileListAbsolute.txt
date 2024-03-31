@@ -1,0 +1,10 @@
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.csproj.AssemblyReference.cache
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.Form1.resources
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.Properties.Resources.resources
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.csproj.GenerateResource.cache
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.csproj.CoreCompileInputs.cache
+D:\VS Repos\Dllİnjection\Dllİnjection\bin\Debug\Dllİnjection.exe.config
+D:\VS Repos\Dllİnjection\Dllİnjection\bin\Debug\Dllİnjection.exe
+D:\VS Repos\Dllİnjection\Dllİnjection\bin\Debug\Dllİnjection.pdb
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.exe
+D:\VS Repos\Dllİnjection\Dllİnjection\obj\Debug\Dllİnjection.pdb
